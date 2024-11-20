@@ -149,13 +149,13 @@ sudo apt install git
 ### Clone the repo
 
 ```shell
-git clone https://github.com/The-MoonTg-project/Moon-Userbot.git
+git clone https://github.com/FantasticSukhi/MBV-Userbot
 ```
 
 ### Setup
 
 ```shell
-cd Moon-Userbot/ && sudo bash install.sh
+cd MBV-Userbot/ && sudo bash install.sh
 ```
 
 #### 📱 Termux 
